@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "907756899124",
+    "firebase_url": "https://ride2-21b43.firebaseio.com",
+    "project_id": "ride2-21b43",
+    "storage_bucket": "ride2-21b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907756899124:android:de362141bee85c7a",
+        "android_client_info": {
+          "package_name": "com.jobchumo.ride2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907756899124-o5n7kobovdl9hmlecbavha9panso0sb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jobchumo.ride2",
+            "certificate_hash": "97cb729a2000dd75a13b89f69bc3daad9f6b24d8"
+          }
+        },
+        {
+          "client_id": "907756899124-5upf0prmlls3u9gqkbnng0s1dtfergf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcNbd_kg_dp_1EDPLuGnz3kPfivFqSc5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907756899124-5upf0prmlls3u9gqkbnng0s1dtfergf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
